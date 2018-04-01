@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "153349406509",
+    "firebase_url": "https://cayla-irma.firebaseio.com",
+    "project_id": "cayla-irma",
+    "storage_bucket": "cayla-irma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153349406509:android:56dce87aa8bb5a57",
+        "android_client_info": {
+          "package_name": "com.example.irmayantisyam.irma_1202154347_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153349406509-eaujt5t3gpk8mlrdilqdvlhfp1g3ug3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.irmayantisyam.irma_1202154347_modul6",
+            "certificate_hash": "80c0fff3a563336e8d6b48c514fffb2218f8f6f7"
+          }
+        },
+        {
+          "client_id": "153349406509-i3q33u8cv9qf189070g50unn5f9pde8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhjSgUtdzi34_R4x4YQDsCesk4jpKHodY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153349406509-i3q33u8cv9qf189070g50unn5f9pde8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
